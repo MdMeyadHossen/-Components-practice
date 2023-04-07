@@ -1,2 +1,2 @@
-# -Components-practice
+# Components-practice
  Components practice
